@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - I'm maintaining Syberia OS for Xiaomi Mi 9 aka cepheus,if you enjoy my work, feel free to help me pay for my server via:
-<noscript><a href="https://liberapay.com/mesziman/donate"><img alt="Help me pay for my server using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
+- <noscript><a href="https://liberapay.com/mesziman/donate"><img alt="Help me pay for my server using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
 <a href="https://www.paypal.me/mesziman"><img height="32" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Dark/Big.png" alt="Help me pay for my server using PayPal" />
  
 <img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/mesziman">

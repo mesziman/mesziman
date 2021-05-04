@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mesziman/mesziman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there this is Gábor[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmesziman&longCache=true)](https://github.com/mesziman)
+### Hi there this is Gábor 👋     [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmesziman&longCache=true)](https://github.com/mesziman)
 [![mesziman github stats](https://github-readme-stats.vercel.app/api?username=mesziman&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/mesziman)
 
 - 🔭 I’m currently working on [![SyberiaOS](https://img.shields.io/static/v1?label=Syberia&message=OS&color=167c80)](https://github.com/Syberia-Project)
